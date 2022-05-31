@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Ciuba/AndroidStudioProjects/KindnessChallenge/app/src/main/res/layout/activity_main.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/Ciuba/AndroidStudioProjects/KindnessChallenge/app/src/main/res/drawable/button_selector_effect.xml" value="0.1" />
+        <entry key="..\:/Users/Ciuba/AndroidStudioProjects/KindnessChallenge/app/src/main/res/drawable/tag_button_selected.xml" value="0.1" />
+        <entry key="..\:/Users/Ciuba/AndroidStudioProjects/KindnessChallenge/app/src/main/res/drawable/tag_button_selector.xml" value="0.1855" />
+        <entry key="..\:/Users/Ciuba/AndroidStudioProjects/KindnessChallenge/app/src/main/res/drawable/tag_selector.xml" value="0.1" />
+        <entry key="..\:/Users/Ciuba/AndroidStudioProjects/KindnessChallenge/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
