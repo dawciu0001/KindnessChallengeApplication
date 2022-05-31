@@ -6,3 +6,5 @@ basic MVVM room application, which fetches a random good deed
 as mentioned in other projects: I'm not really talented in art, so I find it hard to single-handedly 
 design the UI in Figma/Adobe XD, so if anybody is up to design the UI and send me some photos,
 I would be more than happy to update it 
+
+Feel free to fork it and expand it (add points for finishing deeds and a scoreboard? :D)
